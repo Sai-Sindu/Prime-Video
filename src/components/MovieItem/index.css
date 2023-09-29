@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.movie-item-card {
+  padding: 20px;
+}
+.movie-item-img {
+  height: 170px;
+  width: 290px;
+  margin-left: 5px;
+}
+.modal-popup {
+  background-color: #ffffff;
+  height: 400px;
+  width: 800px;
+  border-radius: 20px;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+}
+.close-button {
+  border: none;
+  background-color: transparent;
+  align-self: flex-end;
+  outline: none;
+  margin-bottom: 20px;
+}
+.icon {
+  height: 35px;
+  width: 35px;
+  color: #000000;
+}
